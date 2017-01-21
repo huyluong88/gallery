@@ -17,6 +17,14 @@
 .App-intro {
   font-size: large;
 }
+.home {
+  height: 12em;
+  width: 20em;
+}
+.album {
+  height: 22em;
+  width: 36em;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
